@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/drawable/agenda.xml" value="0.2703125" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/drawable/bottom.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/drawable/contact.xml" value="0.2703125" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/drawable/key.xml" value="0.2703125" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/drawable/left.xml" value="0.2703125" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/drawable/module.xml" value="0.2703125" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/drawable/rights.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/layout/activity_authorization.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/layout/activity_bottom_nav.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/layout/activity_home.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/layout/activity_login.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/layout/activity_main2.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/layout/fragment_detali.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/layout/fragment_grid.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/layout/fragment_linear.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/layout/fragment_login.xml" value="0.152" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/layout/fragment_second.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/layout/fragment_there.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/layout/grid_item.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/layout/item_grid.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/layout/item_linear.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/layout/linear_item.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Temirlan/Documents/GitHub/catalog/app/src/main/res/menu/menu_nav.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
