@@ -50,7 +50,12 @@ class GridAdapter (
             val bundle = Bundle()
             bundle.putSerializable("MAMA", item)
 
-        context.supportFragmentManager.beginTransaction().replace(R.id.container, FragmentDetali::class.java, bundle)
+        context.supportFragmentManager
+            .beginTransaction()
+            .replace(
+                R.id.container,
+                FragmentDetali::class.java, bundle
+            )
             .addToBackStack(null).commit()
     }
     }

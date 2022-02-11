@@ -5,19 +5,15 @@
     android:id="@+id/nav_graph"
     app:startDestination="@id/fragmentLinear">
 
-    <fragment
-        android:id="@+id/fragmentDetali"
-        android:name="com.itacademy.homework.fragments.FragmentDetali"
-        android:label="fragment_detali"
-        tools:layout="@layout/fragment_detali" />
+
     <fragment
         android:id="@+id/fragmentLinear"
         android:name="com.itacademy.homework.fragments.FragmentLinear"
         android:label="fragment_linear"
         tools:layout="@layout/fragment_linear" >
-        <action
-            android:id="@+id/action_fragmentLinear_to_fragmentDetali"
-            app:destination="@id/fragmentDetali" />
+    <action
+        android:id="@+id/action_fragmentLinear_to_fragmentDetali"
+        app:destination="@id/fragmentDetali" />
     </fragment>
     <fragment
         android:id="@+id/fragmentGrid"
@@ -28,4 +24,10 @@
             android:id="@+id/action_fragmentGrid_to_fragmentDetali"
             app:destination="@id/fragmentDetali" />
     </fragment>
+    <fragment
+        android:id="@+id/fragmentDetali"
+        android:name="com.itacademy.homework.fragments.FragmentDetali"
+        android:label="fragment_detali"
+        tools:layout="@layout/fragment_detali" />
+
 </navigation>

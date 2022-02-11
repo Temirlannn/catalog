@@ -22,6 +22,7 @@ class FragmentLinear : Fragment() {
     ): View? {
         _binding = FragmentLinearBinding.inflate(inflater, container, false)
         binding.linearRecyclerView.adapter = GridAdapter(Constants.array, requireActivity())
+
         return binding.root
     }
 
